@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+        <item
+            android:id="@+id/nav_p"
+            android:title="Products" />
+        <item
+            android:id="@+id/nav_d"
+            android:title="Demand List" />
+
+    <item
+                android:id="@+id/nav_l"
+                android:title="Log Off" />
+
+    - See more at: http://thedeveloperworldisyours.com/android/put-image-navigation-drawer/#sthash.72IcAcOq.dpuf
+</menu>
